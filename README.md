@@ -13,7 +13,7 @@ Also, it can connect to the developer’s social media accounts saved on the app
 # Screenshots
 <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/37649534/100887864-bf693480-34b5-11eb-90c6-70d530538e5a.jpg" width ="250" height ="500"></td>
+    <td><img src="https://user-images.githubusercontent.com/37649534/100889368-55ea2580-34b7-11eb-9292-dbdb0c09ef24.jpg" width ="250" height ="500"></td>
     <td><img src="https://user-images.githubusercontent.com/37649534/100887892-c6904280-34b5-11eb-8b95-fbbfe51efe14.jpg" width ="250" height ="500"></td>
     <td><img src="https://user-images.githubusercontent.com/37649534/100887927-cee87d80-34b5-11eb-9de6-ff6fac12c9d8.jpg" width ="250" height ="500"></td>
   </tr>
